@@ -4,7 +4,7 @@
   <p>Récemment diplômé par OpenClassrooms, je cherche un premier emploi.</p>
   <p>
     <a href="mailto:ola@jmax.dev">Contactez-moi par email</a> ou sur
-    <a href="linkedin.com/in/jmcob">LinkedIn</a>
+    <a href="http://www.linkedin.com/in/jmcob">mon profil LinkedIn</a>
   </p>
 </template>
 
