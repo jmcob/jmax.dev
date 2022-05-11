@@ -2,7 +2,7 @@
   <CVHeader />
   <h3>Bonjour ! Compétences techniques :</h3>
   <p>
-    J'ai appris à coder il y a 20 ans l'<strong>HTML4</strong>, ces pages
+    J'ai appris à coder il y a 20 ans l'<strong>HTML</strong>, ces pages
     aujourd'hui n'existent plus !
     <br />(Et le Basic sur calculatrice scientifique)
     <br />
@@ -79,7 +79,7 @@ export default {
   },
 };
 </script>
-<style>
+<style scoped>
 h3 {
   color: crimson;
 }
