@@ -1,6 +1,8 @@
 <template>
   <nav>
     <router-link to="/">Home</router-link> |
+    <router-link to="/cv">CV</router-link> |
+    <a href="http://www.jmxi.art/">jmxi.art</a> |
     <router-link to="/about">About</router-link>
   </nav>
   <router-view />
