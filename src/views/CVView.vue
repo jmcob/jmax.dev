@@ -38,7 +38,7 @@
     <strong>Université de médecine</strong> BORDEAUX, <br />
     Jusqu'en 2011, 3 années validées
   </p>
-  <img alt="CV deuuxième logo" src="../assets/CV2.png" />
+
   <h3>Emplois précédents</h3>
   <p>
     Equipier polyvalent chez Quick BORDEAUX GAMBETTA,
@@ -51,6 +51,21 @@
     2010
     <br />
     Accueil des clients, gestion du planning. Fermeture journalière de la caisse
+  </p>
+  <img alt="CV deuxième logo" src="../assets/CV2.png" />
+  <h3>Soft Skills</h3>
+  <p>
+    A l’écoute <br />
+    Optimiste <br />
+    Paisible et joyeux <br />
+    Prêt à aider
+  </p>
+  <h3>Super Pouvoirs</h3>
+  <p>
+    <strong>Peinture abstraite</strong> depuis 2009. <br />
+    <strong> Écriture</strong> depuis toujours. <br />
+    <strong>Bénévole actif</strong> dans le domaine du caritatif, dans la
+    société Saint Vincent de Paul principalement.
   </p>
   <img alt="CV troisième logo" src="../assets/CV3.png" />
 </template>
