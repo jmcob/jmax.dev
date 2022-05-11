@@ -22,6 +22,7 @@
     NodeJS, <strong>MongoDB, MySQL</strong> (Sequelize), <br />
     et même l'<strong>Anglais, lu écrit et parlé.</strong>
   </p>
+  <img alt="CV logo" src="../assets/CV.png" />
   <h3>Etudes</h3>
   <p>
     <strong>Développeur Web / OpenClassrooms & Greta</strong> TALENCE,
@@ -37,6 +38,7 @@
     <strong>Université de médecine</strong> BORDEAUX, <br />
     Jusqu'en 2011, 3 années validées
   </p>
+  <img alt="CV deuuxième logo" src="../assets/CV2.png" />
   <h3>Emplois précédents</h3>
   <p>
     Equipier polyvalent chez Quick BORDEAUX GAMBETTA,
@@ -50,6 +52,7 @@
     <br />
     Accueil des clients, gestion du planning. Fermeture journalière de la caisse
   </p>
+  <img alt="CV troisième logo" src="../assets/CV3.png" />
 </template>
 
 <script>
