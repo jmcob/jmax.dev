@@ -1,8 +1,6 @@
 <template>
-  <h1>Développeur Web JS, front & back - CV</h1>
-  <h2>Jean-Maxime Cobac, créatif et disponible</h2>
-  <p>Récemment diplômé par OpenClassrooms, je cherche un premier emploi.</p>
-  <h3>Bonjour !</h3>
+  <CVHeader />
+  <h3>Bonjour ! Compétences techniques :</h3>
   <p>
     J'ai appris à coder il y a 20 ans l'<strong>HTML4</strong>, ces pages
     aujourd'hui n'existent plus !
@@ -24,15 +22,16 @@
     NodeJS, <strong>MongoDB, MySQL</strong> (Sequelize), <br />
     et même l'<strong>Anglais, lu écrit et parlé.</strong>
   </p>
+  <router-link to="/cv2">Suite du CV</router-link>
 </template>
 
 <script>
-// import CVItem from "@/components/CVItem.vue";
-// export default {
-//   name: "CVView",
-//   components: {
-//     CVItem,
-//   },
-// };
+import CVHeader from "@/components/CVHeader.vue";
+export default {
+  name: "CVView",
+  components: {
+    CVHeader,
+  },
+};
 </script>
 <style></style>

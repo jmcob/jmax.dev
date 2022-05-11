@@ -16,3 +16,9 @@ export default {
   },
 };
 </script>
+
+<style>
+img {
+  border-radius: 10px;
+}
+</style>
