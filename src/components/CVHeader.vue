@@ -13,3 +13,9 @@ export default {
   name: "CVHeader",
 };
 </script>
+
+<style>
+a {
+  color: crimson;
+}
+</style>
