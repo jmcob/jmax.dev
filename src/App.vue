@@ -18,6 +18,7 @@
 
 nav {
   padding: 30px;
+  font-size: x-large;
 }
 
 nav a {
