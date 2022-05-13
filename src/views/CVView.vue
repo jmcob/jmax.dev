@@ -12,7 +12,7 @@
     <strong>Web Developer d'OpenClassrooms</strong>.
   </p>
   <h4>
-    logiquement d'autres langages, <br />
+    d'autres langages, <br />
     frameworks <br />
     et bases de données ont suivi...
   </h4>
@@ -64,8 +64,8 @@
   <p>
     <strong>Peinture abstraite</strong> depuis 2009. <br />
     <strong> Écriture</strong> depuis toujours. <br />
-    <strong>Bénévole actif</strong> dans le domaine du caritatif, dans la
-    société Saint Vincent de Paul principalement.
+    <strong>Bénévole actif</strong> dans le domaine du caritatif, <br />
+    dans la société Saint Vincent de Paul principalement.
   </p>
   <img alt="CV troisième logo" src="../assets/CV3.png" />
 </template>
