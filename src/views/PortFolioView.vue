@@ -16,7 +16,7 @@
     <a href="http://kanap.jmax.dev/"> Kanap</a>
   </h3>
   <p>Projet 5, un site e-commerce en JavaScript Vanilla</p>
-  <h3>Piiquante</h3>
+  <h3><router-link to="/piiquante">Piiquante</router-link></h3>
   <p>
     Projet 6, le backend simple d'une appli collaborative de cuisine. La
     description sera bientot en ligne.
