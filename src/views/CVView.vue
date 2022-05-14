@@ -1,20 +1,22 @@
 <template>
   <CVHeader />
-  <h3>Bonjour ! Compétences techniques :</h3>
+  <br />
+  <img alt="CV troisième logo" src="../assets/CV3.png" />
+
+  <h3>Compétences techniques :</h3>
   <p>
-    J'ai appris à coder il y a 20 ans l'<strong>HTML</strong>, ces pages
-    aujourd'hui n'existent plus !
-    <br />(Et le Basic sur calculatrice scientifique)
+    J'ai appris à coder il y a 20 ans, avec l'<strong>HTML</strong>,
+    <br />ainsi que le Basic sur calculatrice scientifique.
     <br />
-    En 2020, j'apprends la version 5 du markup avec le <strong>CSS</strong>.
     <br />
-    En 2021, j'intègre la promotion
+    En 2020, j'apprends la version 5 du markup, et le <strong>CSS</strong>.
+    <br />
+    L'année suivante, j'intègre la promotion
     <strong>Web Developer d'OpenClassrooms</strong>.
   </p>
   <h4>
-    d'autres langages, <br />
-    frameworks <br />
-    et bases de données ont suivi...
+    d'autres langages, frameworks, <br />
+    et bases de données ont suivi... :
   </h4>
   <p>
     Le Sass, <br />
@@ -29,7 +31,7 @@
     <br />
     2021/2022 <br />
     Acquisition des principaux langages du web. <br /><br />
-    Evocime compétences numériques BORDEAUX,<br />
+    <strong> Evocime compétences numériques</strong> BORDEAUX,<br />
     2019/2020 <br />
     Communication et marketing digital, MS Office.
     <br />
@@ -41,17 +43,20 @@
 
   <h3>Emplois précédents</h3>
   <p>
-    Equipier polyvalent chez Quick BORDEAUX GAMBETTA,
-    <br /><strong>2012-2019</strong> <br />
+    <strong>Equipier polyvalent chez Quick</strong> BORDEAUX GAMBETTA,
+    <br />2012-2019 <br />
     Entretien de la salle de manière quotidienne. Prise des commandes en caisse.
     <br />
+    <br />
 
-    Réceptionniste en hotellerie pour Citéa BORDEAUX, AVIGNON ET LOURDES
+    <strong>Réceptionniste en hotellerie pour Citéa</strong> BORDEAUX, AVIGNON
+    ET LOURDES
     <br />
     2010
     <br />
     Accueil des clients, gestion du planning. Fermeture journalière de la caisse
   </p>
+  <br />
   <img alt="CV deuxième logo" src="../assets/CV2.png" />
   <h3>Soft Skills</h3>
   <p>
@@ -67,7 +72,6 @@
     <strong>Bénévole actif</strong> dans le domaine du caritatif, <br />
     dans la société Saint Vincent de Paul principalement.
   </p>
-  <img alt="CV troisième logo" src="../assets/CV3.png" />
 </template>
 
 <script>
