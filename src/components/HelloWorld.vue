@@ -1,31 +1,17 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>Projets OpenClassrooms</h2>
+    <h2>Bonjour, je suis développeur, pour vous servir !</h2>
     <p>
       J'ai été formé chez OpenClassrooms, en 2021/2022, en tant que développeur
-      web.<br />
-      Voici quelques-uns des projets que j'ai réalisé :
+      web.
     </p>
-    <h3>
-      Projet 2, une maquette HTML/CSS :
-      <a href="http://reservia.jmax.dev/"> Reservia</a>
-    </h3>
-    <h3>
-      Projet 3, un MVP mobile first avec animations CSS :
-      <a href="http://ohmyfood.jmax.dev/"> OhMyFood</a>
-    </h3>
 
-    <h3>
-      Projet 5, un site ecommerce :
-      <a href="http://kanap.jmax.dev/"> Kanap</a>
-    </h3>
-    <h3>
-      Projet 6, le backend simple d'une appli collaborative de cuisine :
-      <a href="https://www.jmax.dev/html/projets/piiquante.html">
-        description de Piiquante</a
-      >
-    </h3>
+    <h3><router-link to="/cv">Voici mon CV.</router-link></h3>
+
+    <h3><a href="https://github.com/jmcob"> Et voici ma page Github.</a></h3>
+
+    <br />
   </div>
 </template>
 
@@ -40,6 +26,10 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+h2 {
+  color: darkblue;
+}
+
 h3 {
   margin: 40px 0 0;
 }

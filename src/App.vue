@@ -2,12 +2,14 @@
   <nav>
     <router-link to="/">Home</router-link> |
     <router-link to="/cv">CV</router-link> |
+    <router-link to="/portfolio">PortFolio</router-link> |
     <router-link to="/about">About</router-link>
   </nav>
   <router-view />
   <nav>
     <router-link to="/">Home</router-link> |
     <router-link to="/cv">CV</router-link> |
+    <router-link to="/portfolio">PortFolio</router-link> |
     <router-link to="/about">About</router-link>
   </nav>
 </template>
