@@ -17,10 +17,7 @@
   </h3>
   <p>Projet 5, un site e-commerce en JavaScript Vanilla</p>
   <h3><router-link to="/piiquante">Piiquante</router-link></h3>
-  <p>
-    Projet 6, le backend simple d'une appli collaborative de cuisine. La
-    description sera bientot en ligne.
-  </p>
+  <p>Projet 6, le backend simple d'une appli collaborative de cuisine.</p>
   <h3>Groupomania</h3>
   Le projet 7 est un réseau social dont une démonstration sera je l'espère
   bientot en ligne également.
