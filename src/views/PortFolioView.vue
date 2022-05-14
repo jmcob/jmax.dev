@@ -1,5 +1,7 @@
 <template>
   <PortFolioHeader />
+  <br />
+  <img alt="Port Folio premier logo" src="../assets/PF.png" />
   <h2>Projets OpenClassrooms</h2>
   <p>Voici quelques-uns des projets que j'ai réalisé :</p>
   <h3>
@@ -23,6 +25,8 @@
   Le projet 7 est un réseau social dont une démonstration sera je l'espère
   bientot en ligne également.
   <br />
+  <br />
+  <img alt="Port Folio premier logo" src="../assets/PF2.png" />
   <h2>Projets personnels</h2>
   <h3><a href="https://play.jmax.dev/">JavaScript Playground</a></h3>
   <p>
