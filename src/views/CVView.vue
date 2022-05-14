@@ -14,10 +14,10 @@
     L'année suivante, j'intègre la promotion
     <strong>Web Developer d'OpenClassrooms</strong>.
   </p>
-  <h4>
+  <p>
     d'autres langages, frameworks, <br />
     et bases de données ont suivi... :
-  </h4>
+  </p>
   <p>
     Le Sass, <br />
     <strong>le JavaScript, Vue3, Express</strong>, <br />
@@ -58,14 +58,14 @@
   </p>
   <br />
   <img alt="CV deuxième logo" src="../assets/CV2.png" />
-  <h3>Soft Skills</h3>
+  <h3>Soft skills</h3>
   <p>
     A l’écoute <br />
     Optimiste <br />
     Paisible et joyeux <br />
     Prêt à aider
   </p>
-  <h3>Super Pouvoirs</h3>
+  <h3>Supers-pouvoirs</h3>
   <p>
     <strong>Peinture abstraite</strong> depuis 2009. <br />
     <strong> Écriture</strong> depuis toujours. <br />
