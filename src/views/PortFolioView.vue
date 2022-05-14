@@ -31,6 +31,10 @@
   </p>
   <h3><a href="https://todo.jmax.dev/">Task Tracker</a></h3>
   <p>Un projet Vue3 dont j'ai réalisé le back-end.</p>
+  <h3><a href="https://www.jmxi.art/">jmxi.art</a></h3>
+  <p>
+    Un projet catholique et artistique personnel actuellement en reconstruction.
+  </p>
 </template>
 
 <script>
