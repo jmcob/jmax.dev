@@ -20,9 +20,11 @@
   <p>Projet 6, le backend simple d'une appli collaborative de cuisine.</p>
   <h3><a href="https://youtu.be/kJFM3wjZt8w">Groupomania (sur YouTube)</a></h3>
   <p>
-    Le projet 7 est un réseau social qui n'est pas en ligne ; mais une courte
-    vidéo de présentation est disponible sur Youtube. Ce projet a été réalisé
-    avec express et Vue-js 3, donc le backend et le frontend en JavaScript.
+    Le projet 7 est un réseau social qui n'est pas en ligne. <br />
+    Une courte vidéo de présentation est disponible sur Youtube.
+    <br />
+    Ce projet a été réalisé avec express et Vue-js 3, donc le backend et le
+    frontend en JavaScript.
   </p>
   <br />
   <br />
