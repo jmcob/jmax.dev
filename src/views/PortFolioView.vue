@@ -18,9 +18,10 @@
   <p>Projet 5, un site e-commerce en JavaScript Vanilla</p>
   <h3><router-link to="/piiquante">Piiquante</router-link></h3>
   <p>Projet 6, le backend simple d'une appli collaborative de cuisine.</p>
-  <h3>Groupomania</h3>
-  Le projet 7 est un réseau social dont une démonstration sera je l'espère
-  bientot en ligne également.
+  <a href="https://youtu.be/kJFM3wjZt8w">Groupomania (sur YouTube)</a>
+  Le projet 7 est un réseau social qui n'est pas en ligne ; mais une courte
+  vidéo de présentation est disponible sur Youtube. Ce projet a été réalisé avec
+  express et Vue-js 3, donc le backend et le frontend en JavaScript.
   <br />
   <br />
   <img alt="Port Folio premier logo" src="../assets/PF2.png" />
