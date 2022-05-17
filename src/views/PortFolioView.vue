@@ -18,7 +18,7 @@
   <p>Projet 5, un site e-commerce en JavaScript Vanilla</p>
   <h3><router-link to="/piiquante">Piiquante</router-link></h3>
   <p>Projet 6, le backend simple d'une appli collaborative de cuisine.</p>
-  <a href="https://youtu.be/kJFM3wjZt8w">Groupomania (sur YouTube)</a>
+  <h3><a href="https://youtu.be/kJFM3wjZt8w">Groupomania (sur YouTube)</a></h3>
   <p>
     Le projet 7 est un réseau social qui n'est pas en ligne ; mais une courte
     vidéo de présentation est disponible sur Youtube. Ce projet a été réalisé
