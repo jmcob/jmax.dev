@@ -17,7 +17,10 @@
   </h3>
   <p>Projet 5, un site e-commerce en JavaScript Vanilla</p>
   <h3><router-link to="/piiquante">Piiquante</router-link></h3>
-  <p>Projet 6, le backend simple d'une appli collaborative de cuisine.</p>
+  <p>
+    Projet 6, le backend simple d'une appli collaborative de cuisine. En
+    JavaScript node.js et express et MongoDB.
+  </p>
   <h3>
     <a href="https://youtu.be/ZzJ1LImNdZc">Démo de Groupomania (sur YouTube)</a>
   </h3>
@@ -26,7 +29,7 @@
     Une courte vidéo de présentation est disponible sur Youtube.
     <br />
     Ce projet a été réalisé avec express et Vue-js 3, donc le backend et le
-    frontend en JavaScript.
+    frontend en JavaScript. Il utilise MySQL.
   </p>
   <br />
   <br />
@@ -39,9 +42,7 @@
   <h3><a href="https://todo.jmax.dev/">Task Tracker</a></h3>
   <p>Un projet Vue3 dont j'ai réalisé le back-end.</p>
   <h3><a href="https://www.jmxi.art/">jmxi.art</a></h3>
-  <p>
-    Un projet catholique et artistique personnel actuellement en reconstruction.
-  </p>
+  <p>Un projet artistique religieux personnel.</p>
 </template>
 
 <script>
