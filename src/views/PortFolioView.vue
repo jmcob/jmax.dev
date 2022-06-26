@@ -19,7 +19,7 @@
   <h3><router-link to="/piiquante">Piiquante</router-link></h3>
   <p>
     Projet 6, le backend simple d'une appli collaborative de cuisine. En
-    JavaScript node.js et express et MongoDB.
+    JavaScript node.js, express et MongoDB.
   </p>
   <h3>
     <a href="https://youtu.be/ZzJ1LImNdZc">Démo de Groupomania (sur YouTube)</a>

@@ -1,5 +1,5 @@
 <template>
-  <h1>Port Folio - Jean-Maxime Cobac</h1>
+  <h1>Portfolio - Jean-Maxime Cobac</h1>
   <h2>Développeur, créatif et disponible, 36 ans</h2>
 </template>
 
