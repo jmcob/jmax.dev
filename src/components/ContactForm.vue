@@ -34,7 +34,8 @@ export default {
       name: "",
       email: "",
       message: "",
-      send: "Send",
+      send: "Envoyer",
+      sent: false,
     };
   },
   methods: {
@@ -59,6 +60,9 @@ export default {
       this.email = "";
       this.message = "";
       this.send = "Merci pour votre message";
+      this.sent = true;
+      let button = document.getElementsByTagName("input")[2];
+      button.style.backgroundColor = "#4caf50";
     },
   },
 };
@@ -97,7 +101,7 @@ textarea {
 }
 
 input[type="submit"] {
-  background-color: #4caf50;
+  background-color: crimson;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -106,6 +110,6 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-  background-color: #45a049;
+  background-color: red;
 }
 </style>
