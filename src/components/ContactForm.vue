@@ -20,7 +20,7 @@
       >
       </textarea>
 
-      <input type="submit" value="Send" />
+      <input type="submit" :value="send" />
     </form>
   </div>
 </template>
@@ -34,6 +34,7 @@ export default {
       name: "",
       email: "",
       message: "",
+      send: "Send",
     };
   },
   methods: {
@@ -57,6 +58,7 @@ export default {
       this.name = "";
       this.email = "";
       this.message = "";
+      this.send = "Merci pour votre message";
     },
   },
 };
