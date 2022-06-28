@@ -3,13 +3,14 @@
     <h1>{{ msg }}</h1>
     <h2>Bonjour, je suis développeur, pour vous servir !</h2>
     <p>
-      J'ai été formé chez OpenClassrooms, en 2021/2022, en tant que développeur
-      web.
+      J'ai été formé chez OpenClassrooms, en 2021/2022. <br />
+      Je cherche un premier emploi de développeur web javascript, je suis
+      spécialisé en vue-js 3.
+      <br />
+      Je suis disponible, vivant, prêt pour une opportunité intéressante.
+      <br />
+      Vous pouvez naviguer sur ce site afin de mieux me connaître.
     </p>
-
-    <h3><router-link to="/cv">Voici mon CV.</router-link></h3>
-
-    <h3><a href="https://github.com/jmcob"> Et voici ma page Github.</a></h3>
 
     <br />
   </div>
