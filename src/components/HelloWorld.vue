@@ -13,6 +13,8 @@
       <br />
       <br />
       Vous pouvez naviguer sur ce site afin de mieux me connaître.
+      <br />
+      Merci
     </p>
   </div>
 </template>
