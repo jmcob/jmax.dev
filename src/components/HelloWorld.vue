@@ -14,6 +14,7 @@
       <br />
       Vous pouvez naviguer sur ce site afin de mieux me connaître.
       <br />
+      <br />
       Merci
     </p>
   </div>
