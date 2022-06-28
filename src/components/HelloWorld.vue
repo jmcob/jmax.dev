@@ -4,15 +4,16 @@
     <h2>Bonjour, je suis développeur, pour vous servir !</h2>
     <p>
       J'ai été formé chez OpenClassrooms, en 2021/2022. <br />
-      Je cherche un premier emploi de développeur web javascript, je suis
-      spécialisé en vue-js 3.
+      Je cherche un premier emploi de
+      <strong>développeur web javascript</strong>, je suis spécialisé en
+      <span class="vue">vue-js 3</span>.
+      <br />
       <br />
       Je suis disponible, vivant, prêt pour une opportunité intéressante.
       <br />
+      <br />
       Vous pouvez naviguer sur ce site afin de mieux me connaître.
     </p>
-
-    <br />
   </div>
 </template>
 
@@ -44,5 +45,9 @@ li {
 }
 a {
   color: crimson;
+}
+.vue {
+  color: #4caf50;
+  font-weight: bold;
 }
 </style>
