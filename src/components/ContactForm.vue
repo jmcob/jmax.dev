@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Me contacter</h1>
     <p>
-      Si vous désirez me contacter, présentez vous dans un bref message
+      Si vous désirez me contacter, présentez-vous dans un bref message, en
       expliquant également le but de votre requête. <br />Je vous remercie pour
       l'intérêt que vous portez à mon travail.
     </p>
