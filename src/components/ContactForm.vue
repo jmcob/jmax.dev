@@ -1,5 +1,12 @@
 <template>
   <div class="container">
+    <h1>Me contacter</h1>
+    <p>
+      Si vous désirez me contacter, présentez vous dans un bref message
+      expliquant également le but de votre requête. <br />Je vous remercie pour
+      l'intérêt que vous portez à mon travail.
+    </p>
+
     <form ref="form" @submit.prevent="sendEmail">
       <label>Nom</label>
       <input type="text" v-model="name" name="name" placeholder="Votre nom" />
