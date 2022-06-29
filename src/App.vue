@@ -55,7 +55,7 @@ nav a.router-link-exact-active {
 .cadre {
   background-color: #f2f2f2;
   border-radius: 5px;
-  max-width: 500px;
+  max-width: 550px;
   padding: 15px;
   box-shadow: 0.5px 0.5px crimson;
 }
