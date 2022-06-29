@@ -6,6 +6,9 @@ export default {
   components: {
     ContactForm,
   },
+  created() {
+    document.title = "Contact - Développeur Web Fullstack - Jean-Maxime Cobac";
+  },
 };
 </script>
 

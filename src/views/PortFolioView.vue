@@ -54,6 +54,10 @@ export default {
   components: {
     PortFolioHeader,
   },
+  created() {
+    document.title =
+      "PortFolio - Développeur Web Fullstack - Jean-Maxime Cobac";
+  },
 };
 </script>
 <style scoped>

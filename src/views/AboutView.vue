@@ -6,3 +6,13 @@
     <img alt="About logo" src="../assets/about.png" />
   </div>
 </template>
+
+<script>
+export default {
+  name: "AboutView",
+
+  created() {
+    document.title = "About - Développeur Web Fullstack - Jean-Maxime Cobac";
+  },
+};
+</script>

@@ -5,8 +5,8 @@
     <p>
       J'ai été formé chez OpenClassrooms, en 2021/2022. <br />
       Je cherche un premier emploi de
-      <strong>développeur web javascript</strong>, je suis spécialisé en
-      <span class="vue">vue-js 3</span>.
+      <strong>développeur web JavaScript</strong>, je suis spécialisé en
+      <span class="vue">Vue-js 3</span>.
       <br />
       <br />
       Je suis disponible, vivant, prêt pour une opportunité intéressante.

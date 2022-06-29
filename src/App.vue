@@ -16,6 +16,15 @@
   </nav>
 </template>
 
+<script>
+export default {
+  name: "app",
+  created() {
+    document.title = "Développeur Web Fullstack - Jean-Maxime Cobac";
+  },
+};
+</script>
+
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;

@@ -81,6 +81,9 @@ export default {
   components: {
     CVHeader,
   },
+  created() {
+    document.title = "CV - Développeur Web Fullstack - Jean-Maxime Cobac";
+  },
 };
 </script>
 <style scoped>

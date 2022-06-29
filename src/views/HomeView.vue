@@ -14,6 +14,9 @@ export default {
   components: {
     HelloWorld,
   },
+  created() {
+    document.title = "Accueil - Développeur Web Fullstack - Jean-Maxime Cobac";
+  },
 };
 </script>
 
