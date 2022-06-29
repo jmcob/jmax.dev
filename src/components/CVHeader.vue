@@ -1,5 +1,5 @@
 <template>
-  <h1>Développeur Web fullstack JavaScript - CV</h1>
+  <h1>Développeur web JavaScript fullstack - CV</h1>
   <h2>Jean-Maxime Cobac, créatif et disponible, 36 ans</h2>
   <p>Récemment diplômé par OpenClassrooms, je cherche un premier emploi.</p>
 </template>

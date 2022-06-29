@@ -2,21 +2,23 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <h2>Bonjour, je suis développeur, pour vous servir !</h2>
-    <p>
-      J'ai été formé chez OpenClassrooms, en 2021/2022. <br />
-      Je cherche un premier emploi de
-      <strong>développeur web JavaScript</strong>, je suis spécialisé en
-      <span class="vue">Vue-js 3</span>.
-      <br />
-      <br />
-      Je suis disponible, vivant, prêt pour une opportunité intéressante.
-      <br />
-      <br />
-      Vous pouvez naviguer sur ce site afin de mieux me connaître.
-      <br />
-      <br />
-      Merci
-    </p>
+    <div class="cadre">
+      <p>
+        J'ai été formé chez OpenClassrooms, en 2021/2022. <br />
+        Je cherche un premier emploi de
+        <strong>développeur web JavaScript</strong>, je suis spécialisé en
+        <span class="vue">Vue.js 3</span>.
+        <br />
+        <br />
+        Je suis disponible, vivant, prêt pour une opportunité intéressante.
+        <br />
+        <br />
+        Vous pouvez naviguer sur ce site afin de mieux me connaître.
+        <br />
+        <br />
+        Merci
+      </p>
+    </div>
   </div>
 </template>
 
@@ -35,17 +37,6 @@ h2 {
   color: darkblue;
 }
 
-h3 {
-  margin: 40px 0 0;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
 a {
   color: crimson;
 }

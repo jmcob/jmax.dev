@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="cadre">
     <h1>Me contacter</h1>
     <p>
       Si vous désirez me contacter, présentez-vous dans un bref message, en
@@ -80,7 +80,7 @@ export default {
   box-sizing: border-box;
 }
 
-.container {
+.cadre {
   display: block;
   margin: auto;
   text-align: center;

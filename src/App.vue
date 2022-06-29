@@ -47,4 +47,16 @@ nav a {
 nav a.router-link-exact-active {
   color: crimson;
 }
+.hello {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.cadre {
+  background-color: #f2f2f2;
+  border-radius: 5px;
+  max-width: 500px;
+  padding: 15px;
+  box-shadow: 0.5px 0.5px crimson;
+}
 </style>

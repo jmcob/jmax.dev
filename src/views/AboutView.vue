@@ -1,9 +1,9 @@
 <template>
   <div class="about">
     <h1>Coded by Jean-Maxime Cobac,</h1>
-    <h2>in May and June 2022, using vue-js 3.</h2>
-    <p>Version 3.4</p>
+    <h2>during May and June of 2022, using Vue.js 3.</h2>
     <img alt="About logo" src="../assets/about.png" />
+    <p>Version 3.5</p>
   </div>
 </template>
 
