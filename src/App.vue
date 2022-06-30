@@ -53,7 +53,7 @@ nav a.router-link-exact-active {
   align-items: center;
 }
 .cadre {
-  background: rgb(10, 145, 255);
+  /* background: rgb(10, 145, 255);
   background: linear-gradient(
     318deg,
     rgba(10, 145, 255, 1) 0%,
@@ -61,11 +61,12 @@ nav a.router-link-exact-active {
     rgba(152, 209, 255, 1) 7%,
     rgba(218, 238, 255, 1) 89%,
     rgba(255, 255, 255, 1) 100%
-  );
-  border-radius: 5px;
+  ); */
+  border-radius: 15px;
   max-width: 550px;
   padding: 0 45px 15px 45px;
-  box-shadow: 1px 1px midnightblue;
+  /* box-shadow: 1px 1px midnightblue; */
+  border: 1px solid crimson;
   margin-top: 20px;
   display: flex;
   flex-direction: column;

@@ -1,8 +1,8 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>Bonjour, je suis développeur, pour vous servir !</h2>
     <div class="cadre">
+      <h2>Bonjour, je suis développeur, pour vous servir !</h2>
       <p>
         J'ai été formé chez OpenClassrooms, en 2021/2022. <br />
         Je cherche un premier emploi de
