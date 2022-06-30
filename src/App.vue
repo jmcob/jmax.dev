@@ -67,10 +67,22 @@ nav a.router-link-exact-active {
   padding: 0 45px 15px 45px;
   box-shadow: 1px 1px midnightblue;
   margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .cadre img {
+  padding: 0px;
+  margin: 0px;
+}
+
+.img {
   position: relative;
   bottom: 35px;
+  box-sizing: border-box;
+  box-shadow: 5px 5px 5px white;
+  width: 81px;
+  height: 81px;
 }
 </style>

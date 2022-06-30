@@ -6,7 +6,9 @@
     <br />
     <br />
     <div class="cadre">
-      <img alt="Port Folio premier logo" src="../assets/PF.png" />
+      <div class="img">
+        <img alt="Port Folio premier logo" src="../assets/PF.png" />
+      </div>
       <br />
       <h2>Projets OpenClassrooms</h2>
       <p>Voici quelques-uns des projets que j'ai réalisé :</p>
@@ -44,7 +46,9 @@
     <br />
     <br />
     <div class="cadre">
-      <img alt="Port Folio premier logo" src="../assets/PF2.png" />
+      <div class="img">
+        <img alt="Port Folio premier logo" src="../assets/PF2.png" />
+      </div>
       <br />
       <h2>Projets personnels</h2>
 
@@ -78,5 +82,10 @@ export default {
 <style scoped>
 h2 {
   color: darkblue;
+}
+.img {
+  /* img size is not the same (77 instead of 81) */
+  width: 77px;
+  height: 77px;
 }
 </style>

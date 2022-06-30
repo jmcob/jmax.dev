@@ -4,8 +4,9 @@
     <br />
     <br />
     <div class="cadre">
-      <img alt="CV troisième logo" src="../assets/CV3.png" />
-      <br />
+      <div class="img">
+        <img alt="CV troisième logo" src="../assets/CV3.png" />
+      </div>
       <h3>Compétences techniques :</h3>
       <p>
         J'ai appris à coder il y a 20 ans, avec l'<strong>HTML</strong>,
@@ -34,7 +35,7 @@
     <br />
 
     <div class="cadre">
-      <img alt="CV logo" src="../assets/CV.png" />
+      <div class="img"><img alt="CV logo" src="../assets/CV.png" /></div>
       <br />
       <h3>Etudes</h3>
       <p>
@@ -74,7 +75,9 @@
     <br />
     <br />
     <div class="cadre">
-      <img alt="CV deuxième logo" src="../assets/CV2.png" />
+      <div class="img">
+        <img alt="CV deuxième logo" src="../assets/CV2.png" />
+      </div>
       <br />
       <h3>Soft skills</h3>
       <p>
