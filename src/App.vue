@@ -53,7 +53,13 @@ nav a.router-link-exact-active {
   align-items: center;
 }
 .cadre {
-  background-color: #e2e2e2;
+  background: rgb(168, 168, 168);
+  background: linear-gradient(
+    122deg,
+    rgba(168, 168, 168, 1) 0%,
+    rgba(208, 208, 208, 1) 11%,
+    rgba(255, 255, 255, 1) 100%
+  );
   border-radius: 5px;
   max-width: 550px;
   padding: 0 45px 15px 45px;
