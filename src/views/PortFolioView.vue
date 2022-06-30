@@ -4,9 +4,10 @@
 
     <h3><a href="https://github.com/jmcob"> Voici ma page Github.</a></h3>
     <br />
-    <img alt="Port Folio premier logo" src="../assets/PF.png" />
     <br />
     <div class="cadre">
+      <img alt="Port Folio premier logo" src="../assets/PF.png" />
+      <br />
       <h2>Projets OpenClassrooms</h2>
       <p>Voici quelques-uns des projets que j'ai réalisé :</p>
       <h3>
@@ -40,10 +41,11 @@
       </p>
     </div>
     <br />
-
-    <img alt="Port Folio premier logo" src="../assets/PF2.png" />
+    <br />
     <br />
     <div class="cadre">
+      <img alt="Port Folio premier logo" src="../assets/PF2.png" />
+      <br />
       <h2>Projets personnels</h2>
 
       <h3><a href="https://play.jmax.dev/">JavaScript Playground</a></h3>
@@ -57,6 +59,7 @@
       <p>Un projet artistique religieux personnel.</p>
     </div>
   </div>
+  <br />
 </template>
 
 <script>

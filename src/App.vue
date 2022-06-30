@@ -53,10 +53,16 @@ nav a.router-link-exact-active {
   align-items: center;
 }
 .cadre {
-  background-color: #f2f2f2;
+  background-color: #e2e2e2;
   border-radius: 5px;
   max-width: 550px;
-  padding: 15px;
+  padding: 0 25px 15px 25px;
   box-shadow: 0.5px 0.5px crimson;
+  margin-top: 20px;
+}
+
+.cadre img {
+  position: relative;
+  bottom: 35px;
 }
 </style>

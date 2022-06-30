@@ -1,34 +1,36 @@
 <template>
-  <div class="cadre">
-    <h1>Me contacter</h1>
-    <p>
-      Si vous désirez me contacter, présentez-vous dans un bref message, en
-      expliquant également le but de votre requête. <br />Je vous remercie pour
-      l'intérêt que vous portez à mon travail.
-    </p>
+  <div class="hello">
+    <div class="cadre">
+      <h1>Me contacter</h1>
+      <p>
+        Si vous désirez me contacter, présentez-vous dans un bref message, en
+        expliquant également le but de votre requête. <br />Je vous remercie
+        pour l'intérêt que vous portez à mon travail.
+      </p>
 
-    <form ref="form" @submit.prevent="sendEmail">
-      <label>Nom</label>
-      <input type="text" v-model="name" name="name" placeholder="Votre nom" />
-      <label>Email</label>
-      <input
-        type="email"
-        v-model="email"
-        name="email"
-        placeholder="Votre e-mail"
-      />
-      <label>Message</label>
-      <textarea
-        name="message"
-        v-model="message"
-        cols="30"
-        rows="5"
-        placeholder="Message"
-      >
-      </textarea>
+      <form ref="form" @submit.prevent="sendEmail">
+        <label>Nom</label>
+        <input type="text" v-model="name" name="name" placeholder="Votre nom" />
+        <label>Email</label>
+        <input
+          type="email"
+          v-model="email"
+          name="email"
+          placeholder="Votre e-mail"
+        />
+        <label>Message</label>
+        <textarea
+          name="message"
+          v-model="message"
+          cols="30"
+          rows="5"
+          placeholder="Message"
+        >
+        </textarea>
 
-      <input type="submit" :value="send" />
-    </form>
+        <input type="submit" :value="send" />
+      </form>
+    </div>
   </div>
 </template>
 
@@ -78,16 +80,6 @@ export default {
 <style scoped>
 * {
   box-sizing: border-box;
-}
-
-.cadre {
-  display: block;
-  margin: auto;
-  text-align: center;
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-  width: 50%;
 }
 
 label {

@@ -2,9 +2,10 @@
   <div class="hello">
     <CVHeader />
     <br />
-    <img alt="CV troisième logo" src="../assets/CV3.png" />
     <br />
     <div class="cadre">
+      <img alt="CV troisième logo" src="../assets/CV3.png" />
+      <br />
       <h3>Compétences techniques :</h3>
       <p>
         J'ai appris à coder il y a 20 ans, avec l'<strong>HTML</strong>,
@@ -26,11 +27,15 @@
         NodeJS, <strong>MongoDB, MySQL</strong> (Sequelize), <br />
         et même l'<strong>Anglais, lu écrit et parlé.</strong>
       </p>
+      <br />
     </div>
     <br />
-    <img alt="CV logo" src="../assets/CV.png" />
     <br />
+    <br />
+
     <div class="cadre">
+      <img alt="CV logo" src="../assets/CV.png" />
+      <br />
       <h3>Etudes</h3>
       <p>
         <strong>Développeur Web / OpenClassrooms & Greta</strong> TALENCE,
@@ -46,7 +51,7 @@
         <strong>Université de médecine</strong> BORDEAUX, <br />
         Jusqu'en 2011, 3 années validées
       </p>
-
+      <br />
       <h3>Emplois précédents</h3>
       <p>
         <strong>Equipier polyvalent chez Quick</strong> BORDEAUX GAMBETTA,
@@ -55,7 +60,6 @@
         caisse.
         <br />
         <br />
-
         <strong>Réceptionniste en hotellerie pour Citéa</strong> BORDEAUX,
         AVIGNON ET LOURDES
         <br />
@@ -64,11 +68,14 @@
         Accueil des clients, gestion du planning. Fermeture journalière de la
         caisse
       </p>
+      <br />
     </div>
     <br />
-    <img alt="CV deuxième logo" src="../assets/CV2.png" />
+    <br />
     <br />
     <div class="cadre">
+      <img alt="CV deuxième logo" src="../assets/CV2.png" />
+      <br />
       <h3>Soft skills</h3>
       <p>
         A l’écoute <br />
@@ -76,6 +83,7 @@
         Paisible et joyeux <br />
         Prêt à aider
       </p>
+      <br />
       <h3>Supers-pouvoirs</h3>
       <p>
         <strong>Peinture abstraite</strong> depuis 2009. <br />
@@ -83,8 +91,10 @@
         <strong>Bénévole actif</strong> dans le domaine du caritatif, <br />
         dans la société Saint Vincent de Paul principalement.
       </p>
+      <br />
     </div>
   </div>
+  <br />
 </template>
 
 <script>
