@@ -47,6 +47,10 @@ nav a {
 nav a.router-link-exact-active {
   color: crimson;
 }
+
+h3 {
+  margin-bottom: 0;
+}
 .hello {
   display: flex;
   flex-direction: column;
