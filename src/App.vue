@@ -51,6 +51,9 @@ nav a.router-link-exact-active {
 h3 {
   margin-bottom: 0;
 }
+h2 {
+  color: midnightblue;
+}
 .hello {
   display: flex;
   flex-direction: column;
@@ -75,16 +78,21 @@ h3 {
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding-bottom: 0px;
 }
 
 .cadre img {
   padding: 0px;
   margin: 0px;
 }
-
-.img {
+.content {
   position: relative;
-  bottom: 35px;
+  bottom: 45px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.img {
   box-sizing: border-box;
   box-shadow: 5px 5px 5px white;
   width: 81px;
