@@ -49,7 +49,13 @@ export default {
   },
   methods: {
     sendEmail(e) {
+      let button = document.getElementsByTagName("input")[2];
       try {
+        if (this.sent) {
+          this.send = "Pour envoyer un message à nouveau, rechargez la page";
+          button.style.backgroundColor = "#6a0dad";
+          return;
+        }
         emailjs.sendForm(
           "service_ym069uf",
           "template_ic7pb7i",
@@ -68,9 +74,8 @@ export default {
       this.name = "";
       this.email = "";
       this.message = "";
-      this.send = "Merci pour votre message";
+      this.send = "Merci pour votre message, il est transmis";
       this.sent = true;
-      let button = document.getElementsByTagName("input")[2];
       button.style.backgroundColor = "#4caf50";
     },
   },
