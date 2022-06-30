@@ -53,11 +53,11 @@ nav a.router-link-exact-active {
   align-items: center;
 }
 .cadre {
-  background: rgb(5, 106, 187);
+  background: rgb(10, 145, 255);
   background: linear-gradient(
     318deg,
-    rgba(5, 106, 187, 1) 0%,
-    rgba(56, 166, 255, 1) 3%,
+    rgba(10, 145, 255, 1) 0%,
+    rgba(90, 181, 255, 1) 3%,
     rgba(152, 209, 255, 1) 7%,
     rgba(218, 238, 255, 1) 89%,
     rgba(255, 255, 255, 1) 100%
@@ -65,7 +65,7 @@ nav a.router-link-exact-active {
   border-radius: 5px;
   max-width: 550px;
   padding: 0 45px 15px 45px;
-  box-shadow: 1px 1px #dc143c;
+  box-shadow: 1px 1px midnightblue;
   margin-top: 20px;
 }
 
