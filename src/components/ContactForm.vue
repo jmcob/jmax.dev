@@ -85,7 +85,9 @@ export default {
 label {
   float: left;
 }
-
+.cadre {
+  padding-bottom: 20px;
+}
 input[type="text"],
 [type="email"],
 textarea {

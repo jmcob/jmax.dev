@@ -3,7 +3,7 @@
     <h1>Coded by Jean-Maxime Cobac,</h1>
     <h2>during May and June of 2022, using Vue.js 3.</h2>
     <img alt="About logo" src="../assets/about.png" />
-    <p>Version 3.5.10 crimson border-box edition</p>
+    <p>Version 3.5.1 crimson boxes edition</p>
   </div>
 </template>
 
