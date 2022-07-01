@@ -5,7 +5,7 @@
 
     <h3><a href="#stack">Compétences techniques</a></h3>
     <h3><a href="#studies">Etudes & emplois précédents</a></h3>
-    <h3><a href="#softSkills">Soft skills & super pouvoirs</a></h3>
+    <h3><a href="#softSkills">Soft skills & Supers-pouvoirs</a></h3>
     <br /><br /><br />
     <div class="cadre">
       <div class="content">
