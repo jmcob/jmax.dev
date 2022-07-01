@@ -2,9 +2,14 @@
   <div class="hello">
     <CVHeader />
     <br />
-    <br />
+
+    <h3><a href="#stack">Compétences techniques</a></h3>
+    <h3><a href="#studies">Etudes & emplois précédents</a></h3>
+    <h3><a href="#softSkills">Soft skills & super pouvoirs</a></h3>
+    <br /><br /><br />
     <div class="cadre">
       <div class="content">
+        <a id="stack"></a>
         <div class="img">
           <img alt="CV troisième logo" src="../assets/CV3.png" />
         </div>
@@ -40,6 +45,7 @@
 
     <div class="cadre">
       <div class="content">
+        <a id="studies"></a>
         <div class="img"><img alt="CV logo" src="../assets/CV.png" /></div>
         <br />
         <h2>Etudes</h2>
@@ -82,6 +88,7 @@
     <br />
     <div class="cadre">
       <div class="content">
+        <a id="softSkills"></a>
         <div class="img">
           <img alt="CV deuxième logo" src="../assets/CV2.png" />
         </div>
