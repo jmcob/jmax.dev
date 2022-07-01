@@ -11,7 +11,7 @@ const routes = [
     // path: "*",
     path: "/:catchAll(.*)",
     name: "NotFound",
-    component: HomeView,
+    component: () => import("../views/NotFoundView"),
     meta: {
       requiresAuth: false,
     },
