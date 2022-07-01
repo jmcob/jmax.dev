@@ -8,6 +8,15 @@ const routes = [
     component: HomeView,
   },
   {
+    // path: "*",
+    path: "/:catchAll(.*)",
+    name: "NotFound",
+    component: HomeView,
+    meta: {
+      requiresAuth: false,
+    },
+  },
+  {
     path: "/about",
     name: "about",
     // route level code-splitting
