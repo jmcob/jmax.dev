@@ -152,14 +152,18 @@
     </div>
     <p>Merci de m&#39;avoir lu.</p>
   </div>
+  <NavBar />
 </template>
 
 <script>
 import PortFolioHeader from "@/components/PortFolioHeader.vue";
+import NavBar from "@/components/NavBar.vue";
+
 export default {
   name: "PortFolioView",
   components: {
     PortFolioHeader,
+    NavBar,
   },
 };
 </script>
