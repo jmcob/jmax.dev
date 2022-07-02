@@ -12,8 +12,12 @@ export default {
 </script>
 
 <style>
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@200;500;700&family=Finlandica:ital,wght@0,400;0,700;1,400&display=swap");
+* {
+  background-color: beige;
+}
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: "Dosis", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
@@ -21,6 +25,7 @@ export default {
 }
 
 nav {
+  font-family: "Finlandica", sans-serif;
   padding: 30px;
   font-size: x-large;
 }
@@ -46,20 +51,10 @@ h2 {
   align-items: center;
 }
 .cadre {
-  /* background: rgb(10, 145, 255);
-  background: linear-gradient(
-    318deg,
-    rgba(10, 145, 255, 1) 0%,
-    rgba(90, 181, 255, 1) 3%,
-    rgba(152, 209, 255, 1) 7%,
-    rgba(218, 238, 255, 1) 89%,
-    rgba(255, 255, 255, 1) 100%
-  ); */
   border-radius: 15px;
   max-width: 550px;
   padding: 0 45px 15px 45px;
-  /* box-shadow: 1px 1px midnightblue; */
-  border: 1px solid crimson;
+  outline: 1px solid crimson;
   margin-top: 20px;
   display: flex;
   flex-direction: column;
@@ -67,7 +62,7 @@ h2 {
   padding-bottom: 0px;
 }
 
-.cadre img {
+.img {
   padding: 0px;
   margin: 0px;
 }
@@ -77,6 +72,7 @@ h2 {
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: transparent;
 }
 .img {
   box-sizing: border-box;

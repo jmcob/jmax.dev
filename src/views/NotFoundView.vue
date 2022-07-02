@@ -12,12 +12,15 @@
     ou, au choix, de recomposer un logo pour
     <a href="google.com">Google.</a>
   </p>
-  <img src="../assets/404.jpg" alt="404 palette de couleurs" />
+  <figure>
+    <img src="../assets/404.jpg" alt="404 palette de couleurs" />
+  </figure>
   <NavBar />
 </template>
 <style scoped>
-img {
+figure {
   width: 50%;
+  max-width: 450px;
 }
 .back-home {
   font-size: larger;
