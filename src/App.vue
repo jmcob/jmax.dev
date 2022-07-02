@@ -38,6 +38,9 @@ nav a {
 nav a.router-link-exact-active {
   color: crimson;
 }
+p {
+  font-size: large;
+}
 
 h3 {
   margin-bottom: 0;
