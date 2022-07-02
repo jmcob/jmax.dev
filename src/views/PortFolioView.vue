@@ -1,4 +1,5 @@
 <template>
+  <NavBar />
   <div class="hello">
     <PortFolioHeader />
 
@@ -70,14 +71,18 @@
     </div>
   </div>
   <br />
+  <NavBar />
 </template>
 
 <script>
 import PortFolioHeader from "@/components/PortFolioHeader.vue";
+import NavBar from "@/components/NavBar.vue";
+
 export default {
   name: "PortFolioView",
   components: {
     PortFolioHeader,
+    NavBar,
   },
   created() {
     document.title =

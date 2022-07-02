@@ -1,4 +1,5 @@
 <template>
+  <NavBar />
   <div class="home">
     <img alt="jmax.dev logo" src="../assets/logo.png" />
     <HelloWorld msg="Bienvenue sur jmax.dev" />
@@ -8,14 +9,16 @@
 <script>
 // @ is an alias to /src
 import HelloWorld from "@/components/HelloWorld.vue";
+import NavBar from "@/components/NavBar.vue";
 
 export default {
   name: "HomeView",
   components: {
     HelloWorld,
+    NavBar,
   },
   created() {
-    document.title = "Accueil - Développeur Web Fullstack - Jean-Maxime Cobac";
+    document.title = "Développeur Web Fullstack - Jean-Maxime Cobac";
   },
 };
 </script>

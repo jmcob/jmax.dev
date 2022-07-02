@@ -1,4 +1,5 @@
 <template>
+  <NavBar />
   <div class="hello">
     <CVHeader />
     <br />
@@ -113,14 +114,18 @@
     </div>
   </div>
   <br />
+  <NavBar />
 </template>
 
 <script>
 import CVHeader from "@/components/CVHeader.vue";
+import NavBar from "@/components/NavBar.vue";
+
 export default {
   name: "CVView",
   components: {
     CVHeader,
+    NavBar,
   },
   created() {
     document.title = "CV - Développeur Web Fullstack - Jean-Maxime Cobac";
