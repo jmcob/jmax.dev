@@ -14,7 +14,7 @@ export default {
 <style>
 @import url("https://fonts.googleapis.com/css2?family=Dosis:wght@200;500;700&family=Finlandica:ital,wght@0,400;0,700;1,400&display=swap");
 * {
-  background-color: beige;
+  background-color: cornsilk;
 }
 #app {
   font-family: "Dosis", sans-serif;
@@ -55,7 +55,7 @@ h2 {
 }
 .cadre {
   border-radius: 15px;
-  max-width: 550px;
+  max-width: 650px;
   padding: 0 45px 15px 45px;
   outline: 1px solid crimson;
   margin-top: 20px;

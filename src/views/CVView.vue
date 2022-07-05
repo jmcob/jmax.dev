@@ -64,39 +64,45 @@
         <a id="studies"></a>
         <div class="img"><img alt="CV logo" src="../assets/CV.png" /></div>
         <br />
-        <h2>Etudes</h2>
-        <p>
-          <strong>Développeur Web / OpenClassrooms & Greta</strong> TALENCE,
-          <br />
-          2021/2022 <br />
-          Acquisition des principaux langages du web. <br /><br />
-          <strong> Evocime compétences numériques</strong> BORDEAUX,<br />
-          2019/2020 <br />
-          Communication et marketing digital, MS Office.
-          <br />
-          Stage de community management chez NovaSancO, Talence
-          <br /><br />
-          <strong>Université de médecine</strong> BORDEAUX, <br />
-          Jusqu'en 2011, 3 années validées
-        </p>
-        <br />
-        <h2>Emplois précédents</h2>
-        <p>
-          <strong>Equipier polyvalent chez Quick</strong> BORDEAUX GAMBETTA,
-          <br />2012-2019 <br />
-          Entretien de la salle de manière quotidienne. Prise des commandes en
-          caisse.
-          <br />
-          <br />
-          <strong>Réceptionniste en hotellerie pour Citéa</strong> BORDEAUX,
-          AVIGNON ET LOURDES
-          <br />
-          2010
-          <br />
-          Accueil des clients, gestion du planning. Fermeture journalière de la
-          caisse
-        </p>
-        <br />
+        <div class="projects">
+          <div class="card">
+            <h2>Etudes</h2>
+            <p>
+              <strong>Développeur Web / OpenClassrooms & Greta</strong> TALENCE,
+              <br />
+              2021/2022 <br />
+              Acquisition des principaux langages du web. <br /><br />
+              <strong> Evocime compétences numériques</strong> BORDEAUX,<br />
+              2019/2020 <br />
+              Communication et marketing digital, MS Office.
+              <br />
+              Stage de community management chez NovaSancO, Talence
+              <br /><br />
+              <strong>Université de médecine</strong> BORDEAUX, <br />
+              Jusqu'en 2011, 3 années validées
+            </p>
+            <br />
+          </div>
+          <div class="card">
+            <h2>Emplois précédents</h2>
+            <p>
+              <strong>Equipier polyvalent chez Quick</strong> BORDEAUX GAMBETTA,
+              <br />2012-2019 <br />
+              Entretien de la salle de manière quotidienne. Prise des commandes
+              en caisse.
+              <br />
+              <br />
+              <strong>Réceptionniste en hotellerie pour Citéa</strong> BORDEAUX,
+              AVIGNON ET LOURDES
+              <br />
+              2010
+              <br />
+              Accueil des clients, gestion du planning. Fermeture journalière de
+              la caisse
+            </p>
+            <br />
+          </div>
+        </div>
       </div>
     </div>
     <br />
@@ -117,11 +123,12 @@
           Prêt à aider
         </p>
         <br />
-        <h2>Supers-pouvoirs</h2>
+        <h2 class="powers">Supers-pouvoirs</h2>
         <p>
-          <strong>Peinture abstraite</strong> depuis 2009. <br />
-          <strong> Écriture</strong> depuis toujours. <br />
-          <strong>Bénévole actif</strong> dans le domaine du caritatif, <br />
+          <strong class="paint">Peinture abstraite</strong> depuis 2009. <br />
+          <strong class="script"> Écriture</strong> depuis toujours. <br />
+          <strong class="ssvp">Bénévole actif</strong> dans le domaine du
+          caritatif, <br />
           dans la société Saint Vincent de Paul principalement.
         </p>
         <br />
@@ -150,5 +157,27 @@ export default {
 <style scoped>
 h3 {
   color: crimson;
+}
+.powers {
+  transition: 200ms;
+}
+.powers:hover {
+  color: rgb(136, 0, 27);
+  background-color: deeppink;
+  cursor: pointer;
+}
+.powers:active {
+  color: lime;
+  background-color: green;
+  cursor: default;
+}
+.paint:hover {
+  color: crimson;
+}
+.script:hover {
+  color: blue;
+}
+.ssvp:hover {
+  color: orangered;
 }
 </style>

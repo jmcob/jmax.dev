@@ -16,7 +16,7 @@
         Vous pouvez naviguer sur ce site afin de mieux me connaître.
         <br />
         <br />
-        Merci
+        <span class="merci"> Merci </span>
       </p>
     </div>
   </div>
@@ -38,6 +38,15 @@ h2 {
 }
 
 a {
+  color: crimson;
+}
+.merci {
+  transition: 200ms;
+}
+.merci:hover {
+  font-size: xx-large;
+  cursor: default;
+  font-weight: bold;
   color: crimson;
 }
 </style>
