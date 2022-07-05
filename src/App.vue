@@ -77,10 +77,24 @@ h2 {
   align-items: center;
   background-color: transparent;
 }
+.projects {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  grid-gap: 5%;
+}
+.card {
+  width: 45%;
+}
 .img {
   box-sizing: border-box;
   box-shadow: 5px 5px 5px white;
   width: 81px;
   height: 81px;
+}
+.vue {
+  color: #4caf50;
+  font-weight: bold;
 }
 </style>

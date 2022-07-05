@@ -16,28 +16,43 @@
         </div>
         <br />
         <h2>Compétences techniques :</h2>
-        <p>
-          J'ai appris à coder il y a 20 ans, avec l'<strong>HTML</strong>,
-          <br />ainsi que le Basic sur calculatrice scientifique.
-          <br />
-          <br />
-          En 2020, j'apprends la version 5 du markup, et le
-          <strong>CSS</strong>.
-          <br />
-          L'année suivante, j'intègre la promotion
-          <strong>Web Developer d'OpenClassrooms</strong>.
-        </p>
-        <p>
-          d'autres langages, frameworks, <br />
-          et bases de données ont suivi... :
-        </p>
-        <p>
-          Le Sass, <br />
-          <strong>le JavaScript, Vue.js 3, Express</strong>, <br />
-          NodeJS, <strong>MongoDB, MySQL</strong> (Sequelize), <br />
-          et même l'<strong>Anglais, lu écrit et parlé.</strong>
-        </p>
-        <br />
+        <div class="projects">
+          <div class="card">
+            <h3>Les débuts</h3>
+            <p>
+              <em>J'ai appris à coder :</em><br /><br />
+              en 2001 avec l'<strong>HTML</strong>, <br />(ainsi que le Basic
+              sur calculatrice scientifique).
+              <br />
+              En 2020, j'apprends la version 5 du markup, et le
+              <strong>CSS</strong>. <br /><br />
+              L'année suivante, j'intègre la promotion
+              <strong>Web Developer d'OpenClassrooms</strong>, <br /><br />
+              où <em>j'ai appris à programmer.</em>
+            </p>
+          </div>
+          <div class="card">
+            <h3>La suite des débuts</h3>
+            <p>
+              et les outils qui me suivent :
+              <br />
+              <br />
+              <strong
+                >JavaScript,<br />
+                avec <span class="vue">Vue.js 3</span>, Express, Node.js</strong
+              >, <br /><br />
+
+              Git,<br /><br />
+              Sass, <br />
+              <br />
+
+              <strong>MongoDB</strong> (Mongoose),<br />
+              <strong>MySQL</strong>
+              (Sequelize), <br /><br />
+              et même l'<strong>Anglais, lu, écrit, et parlé.</strong>
+            </p>
+          </div>
+        </div>
       </div>
     </div>
     <br />

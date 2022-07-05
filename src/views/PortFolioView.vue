@@ -132,14 +132,4 @@ h2 {
   width: 77px;
   height: 77px;
 }
-.projects {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  grid-gap: 5%;
-}
-.card {
-  width: 45%;
-}
 </style>

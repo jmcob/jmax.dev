@@ -40,8 +40,4 @@ h2 {
 a {
   color: crimson;
 }
-.vue {
-  color: #4caf50;
-  font-weight: bold;
-}
 </style>
