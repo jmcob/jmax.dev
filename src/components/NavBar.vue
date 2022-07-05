@@ -6,6 +6,7 @@
       <router-link to="/portfolio">Portfolio</router-link>
     </div>
     <div class="router"><router-link to="/contact">Contact</router-link></div>
+    <div class="router"><a href="https://www.jmxi.art/">Art</a></div>
     <div class="router"><router-link to="/about">A propos</router-link></div>
   </nav>
 </template>
