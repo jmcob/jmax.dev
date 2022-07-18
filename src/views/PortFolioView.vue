@@ -99,6 +99,10 @@
             <h3><a href="https://www.jmxi.art/">jmxi.art</a></h3>
             <p>Un projet artistique religieux personnel.</p>
           </div>
+          <div class="card">
+            <h3><a href="https://www.jmx.blue/">jmx.blue</a></h3>
+            <p>Site littéraire codé avec VitePress.</p>
+          </div>
         </div>
       </div>
     </div>

@@ -43,7 +43,7 @@
               >, <br /><br />
 
               Git,<br /><br />
-              Sass, <br />
+              Sass, MarkDown, VitePress <br />
               <br />
 
               <strong>MongoDB</strong> (Mongoose),<br />
