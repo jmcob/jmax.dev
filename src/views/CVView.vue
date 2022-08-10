@@ -39,8 +39,9 @@
               <br />
               <strong
                 >JavaScript,<br />
-                avec <span class="vue">Vue.js 3</span>, Express, Node.js</strong
-              >, <br /><br />
+                avec <span class="vue">Vue.js 3</span>, Vite, Nuxt,
+              </strong>
+              <br /><br /><strong> Express, Node.js</strong>, <br /><br />
 
               Git,<br /><br />
               Sass, MarkDown, VitePress <br />
@@ -68,6 +69,9 @@
           <div class="card">
             <h2>Etudes</h2>
             <p>
+              <strong>Stage chez Géosoft</strong> MARTILLAC (33), <br />août
+              2022 <br />Conception d'une page de statistiques médicales.
+              <br /><br />
               <strong>Développeur Web / OpenClassrooms & Greta</strong> TALENCE,
               <br />
               2021/2022 <br />
