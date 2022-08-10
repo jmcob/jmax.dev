@@ -56,13 +56,12 @@ h2 {
 .cadre {
   border-radius: 15px;
   max-width: 650px;
-  padding: 0 45px 15px 45px;
+  padding: 20px 45px 45px 45px;
   outline: 1px solid crimson;
-  margin-top: 20px;
+  margin: 20px 20px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding-bottom: 0px;
 }
 
 .img {
