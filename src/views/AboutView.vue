@@ -5,7 +5,7 @@
     <h2>during spring and summer of 2022, using Vue.js 3.</h2>
     <br />
     <img alt="About logo" src="../assets/about.png" />
-    <p>Version 3.7.1 fausse note edition</p>
+    <p>Version 3.7.2 fausse note en si bémol edition</p>
   </div>
 </template>
 
