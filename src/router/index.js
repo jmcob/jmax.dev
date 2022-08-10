@@ -11,7 +11,7 @@ const routes = [
     // path: "*",
     path: "/:catchAll(.*)",
     name: "NotFound",
-    component: () => import("../views/NotFoundView"),
+    component: () => import("@/views/NotFoundView"),
     meta: {
       requiresAuth: false,
     },
@@ -23,7 +23,7 @@ const routes = [
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () =>
-      import(/* webpackChunkName: "about" */ "../views/AboutView.vue"),
+      import(/* webpackChunkName: "about" */ "@/views/AboutView.vue"),
   },
   {
     path: "/cv",
@@ -32,7 +32,7 @@ const routes = [
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () =>
-      import(/* webpackChunkName: "about" */ "../views/CVView.vue"),
+      import(/* webpackChunkName: "about" */ "@/views/CVView.vue"),
   },
   {
     path: "/portfolio",
@@ -41,7 +41,7 @@ const routes = [
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () =>
-      import(/* webpackChunkName: "about" */ "../views/PortFolioView.vue"),
+      import(/* webpackChunkName: "about" */ "@/views/PortFolioView.vue"),
   },
   {
     path: "/piiquante",
@@ -50,7 +50,7 @@ const routes = [
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () =>
-      import(/* webpackChunkName: "about" */ "../views/PiiquanteView.vue"),
+      import(/* webpackChunkName: "about" */ "@/views/PiiquanteView.vue"),
   },
   {
     path: "/contact",
@@ -59,7 +59,7 @@ const routes = [
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () =>
-      import(/* webpackChunkName: "about" */ "../views/ContactPage.vue"),
+      import(/* webpackChunkName: "about" */ "@/views/ContactPage.vue"),
   },
 ];
 

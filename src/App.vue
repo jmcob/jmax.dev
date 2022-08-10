@@ -67,11 +67,9 @@ h2 {
 
 .img {
   padding: 0px;
-  margin: 0px;
+  margin: 20px;
 }
 .content {
-  position: relative;
-  bottom: 45px;
   display: flex;
   flex-direction: column;
   align-items: center;
