@@ -103,6 +103,10 @@
             <h3><a href="https://www.jmx.blue/">jmx.blue</a></h3>
             <p>Site littéraire codé avec VitePress.</p>
           </div>
+          <div class="card">
+            <h3><a href="https://www.uneparole.love/">uneparole.love</a></h3>
+            <p>Générateur de parole de Dieu aléatoire</p>
+          </div>
         </div>
       </div>
     </div>
