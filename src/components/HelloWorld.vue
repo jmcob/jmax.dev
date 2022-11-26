@@ -5,12 +5,12 @@
       <h2>Bonjour, je suis développeur, pour vous servir !</h2>
       <p>
         J'ai été formé chez OpenClassrooms, en 2021/2022. <br />
-        Je cherche un premier emploi de
+        Je travaille actuellement chez Géosoft Aquitaine comme
         <strong>développeur web JavaScript</strong>, je suis spécialisé en
-        <span class="vue">Vue.js 3</span>.
+        <span class="vue">Vue.js et son environnement</span>.
         <br />
         <br />
-        Je suis disponible, vivant, prêt pour une opportunité intéressante.
+        Je suis disponible, vivant.
         <br />
         <br />
         Vous pouvez naviguer sur ce site afin de mieux me connaître.

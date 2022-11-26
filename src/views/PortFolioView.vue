@@ -7,6 +7,42 @@
       Je vous invite à visiter
       <a href="https://github.com/jmcob"> ma page Github</a>
     </h2>
+    
+    <div class="cadre">
+      <div class="content">
+        <div class="img">
+          <img alt="Port Folio premier logo" src="../assets/PF2.png" />
+        </div>
+        <br />
+        <h2>Projets personnels</h2>
+        <div class="projects">
+          <div class="card">
+            <h3><a href="https://play.jmax.dev/">JavaScript Playground</a></h3>
+            <p>
+              Trois petits projets d'entrainement qui m'ont permis d'apprendre
+              ce langage.
+            </p>
+          </div>
+          <div class="card">
+            <h3><a href="https://todo.jmax.dev/">Task Tracker</a></h3>
+            <p>Un projet Vue3 dont j'ai réalisé le back-end.</p>
+          </div>
+          <div class="card">
+            <h3><a href="https://www.jmxi.art/">jmxi.art</a></h3>
+            <p>Un projet artistique religieux personnel.</p>
+          </div>
+          <div class="card">
+            <h3><a href="https://www.jmx.blue/">jmx.blue</a></h3>
+            <p>Site littéraire codé avec VitePress.</p>
+          </div>
+          <div class="card">
+            <h3><a href="https://www.uneparole.love/">uneparole.love</a></h3>
+            <p>Générateur de parole de Dieu aléatoire</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br />
     <br />
     <br />
     <div class="cadre">
@@ -76,40 +112,7 @@
     <br />
     <br />
     <br />
-    <div class="cadre">
-      <div class="content">
-        <div class="img">
-          <img alt="Port Folio premier logo" src="../assets/PF2.png" />
-        </div>
-        <br />
-        <h2>Projets personnels</h2>
-        <div class="projects">
-          <div class="card">
-            <h3><a href="https://play.jmax.dev/">JavaScript Playground</a></h3>
-            <p>
-              Trois petits projets d'entrainement qui m'ont permis d'apprendre
-              ce langage.
-            </p>
-          </div>
-          <div class="card">
-            <h3><a href="https://todo.jmax.dev/">Task Tracker</a></h3>
-            <p>Un projet Vue3 dont j'ai réalisé le back-end.</p>
-          </div>
-          <div class="card">
-            <h3><a href="https://www.jmxi.art/">jmxi.art</a></h3>
-            <p>Un projet artistique religieux personnel.</p>
-          </div>
-          <div class="card">
-            <h3><a href="https://www.jmx.blue/">jmx.blue</a></h3>
-            <p>Site littéraire codé avec VitePress.</p>
-          </div>
-          <div class="card">
-            <h3><a href="https://www.uneparole.love/">uneparole.love</a></h3>
-            <p>Générateur de parole de Dieu aléatoire</p>
-          </div>
-        </div>
-      </div>
-    </div>
+    
   </div>
   <br />
   <NavBar />
