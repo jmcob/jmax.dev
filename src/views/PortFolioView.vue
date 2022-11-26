@@ -7,7 +7,8 @@
       Je vous invite à visiter
       <a href="https://github.com/jmcob"> ma page Github</a>
     </h2>
-    
+    <br />
+    <br />
     <div class="cadre">
       <div class="content">
         <div class="img">
@@ -109,9 +110,6 @@
         </div>
       </div>
     </div>
-    <br />
-    <br />
-    <br />
     
   </div>
   <br />
